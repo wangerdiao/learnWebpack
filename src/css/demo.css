@@ -1,0 +1,21 @@
+.title {
+    background-color: orange;
+    font-size: 20px; 
+    display: flex;
+}
+.img1 {
+width: 200px;
+height: 200px;
+background-size: 100%;
+background-image: url('../imgs/1.jpg');
+}
+.img2 {
+    width: 200px;
+    height: 200px;
+    background-size: 100%;
+    background-image: url('../imgs/2.jpg');
+}
+img {
+    width: 200px;
+    height: 200px;
+}
